@@ -1,0 +1,8 @@
+spring:
+  main:
+    allow-bean-definition-overriding: true
+scalper:
+  delay: 30000
+walmart:
+  email: test@example.com
+  password: dummy
