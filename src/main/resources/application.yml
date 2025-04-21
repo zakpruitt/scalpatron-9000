@@ -2,7 +2,7 @@ spring:
   main:
     allow-bean-definition-overriding: true
 scalper:
-  delay: 10000
+  delay: 8500
   place-orders: true
 target:
   email: ${WALMART_EMAIL}
